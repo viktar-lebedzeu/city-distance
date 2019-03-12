@@ -1,0 +1,6 @@
+/.idea
+/target
+/eureka-service/target
+/core/target
+/calculation-service/target
+/management-service/target
