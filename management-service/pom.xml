@@ -24,7 +24,7 @@
 
         <!-- Spring framework versions -->
         <spring.version>5.1.5.RELEASE</spring.version>
-        <spring.boot.version>2.1.3.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
         <spring.cloud.starter.version>2.1.0.RELEASE</spring.cloud.starter.version>
         <spring.cloud.dependenciees.version>Greenwich.RELEASE</spring.cloud.dependenciees.version>
 
